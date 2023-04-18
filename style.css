@@ -49,3 +49,49 @@ img{
     position: relative;
     left:70px
 }
+
+@media only screen and (max-width: 600px) {
+
+    .div{
+        box-sizing: border-box;
+        position: absolute;
+        width: 335px;
+        height: 510px;
+        left: 120px;
+        bottom:113px;
+        background: hsl(0, 0%, 100%);
+        z-index: -1;
+        border-radius: 20px;
+    
+    
+    }
+    img{
+        max-width: 300px;
+        max-height: 300px;
+        position:relative;
+        left: 129px;
+        top:230px;
+        border-radius: 10px;
+     }
+
+     .font{
+        color:hsl(218, 44%, 22%);
+        position:relative;
+        left: 159px;
+        top: 230px;
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+    }
+    .font1{
+       color: hsl(220, 15%, 55%);
+       position:relative;
+       left:160px;
+       top:220px;
+       font-family: 'Outfit', sans-serif;
+       font-weight: 400;
+       font-size: 15px;
+    }
+
+}
+

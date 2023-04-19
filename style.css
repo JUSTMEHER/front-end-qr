@@ -98,7 +98,7 @@ img{
     }
 
 }
-@media only screen and (min-height:840px){
+@media only screen and (height:932px){
 
 }
 img{
@@ -106,7 +106,7 @@ img{
     max-height: 300px;
     position:relative;
     left: 109px;
-    top:235px;
+    top:320px;
     border-radius: 10px;
  }
 
@@ -114,7 +114,7 @@ img{
     color:hsl(218, 44%, 22%);
     position:relative;
     left: 135px;
-    top: 230px;
+    top: 320px;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     font-size: 22px;
@@ -123,7 +123,7 @@ img{
    color: hsl(220, 15%, 55%);
    position:relative;
    left:140px;
-   top:220px;
+   top:310px;
    font-family: 'Outfit', sans-serif;
    font-weight: 400;
    font-size: 15px;

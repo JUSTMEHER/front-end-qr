@@ -23,12 +23,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### What I learned
-I learned how to create a box correctly and align correctly on desktop.
+Using Flex Box Correctly.To Align and make Responsive
 
 
 ## Author
 
-- Website - [ABHINAV V A](https://justmeher.github.io/Personal/)
+- Website - [ABHINAV V A](https://justmeher.github.io/ABHINAV/)
 - Frontend Mentor - [@JUSTMEHER](https://www.frontendmentor.io/profile/JUSTMEHER)
 - Twitter - [@Wasp__007](https://www.twitter.com/Wasp__007)
 
